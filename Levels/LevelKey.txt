@@ -1,0 +1,13 @@
+Size
+
+Vertical Walls
+
+Horizontal Walls
+
+Exit
+
+Theseus
+
+Minotaur
+
+Perfect Score
