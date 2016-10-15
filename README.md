@@ -1,6 +1,8 @@
 # TheseusAndMinotaur
 AI Solution for puzzle game designed by Robert Abbott
 
+![Demo](https://cdn.rawgit.com/sashankg/TheseusAndMinotaur/master/tandmdemo.gif)
+
 ## About
 The game involves the two titular characters: Theseus and the Minotaor. The player plays as Theseus and has the ability to move up, down, left, or right or to stay in place. For every move that Theseus gets, the Minotaur gets two. However, the Minotaur will always try to move horizontally closer to Theseus if it can. Otherwise, it will move vertically. If the Minotaur catches Theseus before Theseus reaches the goal, then the game is over.
 
